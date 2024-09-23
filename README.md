@@ -1,6 +1,6 @@
 # DEV.F Data Projects
 
-El propósito de este repositorio es reunir todos bajo una misma estructura gran parte del código, pipelines, recursos, queries y demás recursos utilizados es los proyectos de ciencia de datos de DEV.F. Se pretende brindar estructura y accesibilidad a estos recursos, además de comenzar a manejar un control de versiones sobre los experimentos y soluciones conseguidas.
+El propósito de este repositorio es reunir, bajo una misma estructura, gran parte del código, pipelines, recursos, queries y demás recursos utilizados es los proyectos de ciencia de datos de DEV.F. Se pretende brindar estructura y accesibilidad a estos recursos, además de comenzar a manejar un control de versiones sobre los experimentos y soluciones conseguidas.
 
 La plantilla se ha obtenido del framework Data Science Lifecycle Process (DSLP). A continuación la descripción y el por qué de la estructura de esta plantilla:
 
