@@ -1,3 +1,9 @@
+# DEV.F Data Projects
+
+El propósito de este repositorio es reunir todos bajo una misma estructura gran parte del código, pipelines, recursos, queries y demás recursos utilizados es los proyectos de ciencia de datos de DEV.F. Se pretende brindar estructura y accesibilidad a estos recursos, además de comenzar a manejar un control de versiones sobre los experimentos y soluciones conseguidas.
+
+La plantilla se ha obtenido del framework Data Science Lifecycle Process (DSLP). A continuación la descripción y el por qué de la estructura de esta plantilla:
+
 # Data Science Lifecycle Base Repo
 
 Use this repo as a template repository for data science projects using the Data Science Life Cycle Process. This repo is meant to serve as a launch off point. Our goal is to introduce only **minimum viable opinions** into the structure of this repo in order to make this repository/framework useful across a variety of data science projects and workflows. Therefore, we will tend to err to the side of omitting something if we're not confident that it's widely useful or think it's overly opinionated. That shouldn't stop you from forking this repo and adapting it to fit the needs of your project/team/organization.
